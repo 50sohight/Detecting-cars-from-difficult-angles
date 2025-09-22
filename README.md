@@ -2,11 +2,11 @@
 This repository is dedicated to my second project, completed during the second semester for the project practicum. On this page, you can find a trained YOLO model for detecting vehicles from difficult angles. The project also includes the dataset with annotations.
 
 ## Metrics obtained during fine-tuning
-**Model trained on 400 images**
-precision(B) ~ 0.94
-recall(B) ~ 0.84
-mAP50(B) ~ 0.91
-*mAP50-95(B)* ~ 0.74
+**Model trained on 400 images**  
+precision(B) ~ 0.94  
+recall(B) ~ 0.84  
+mAP50(B) ~ 0.91  
+*mAP50-95(B)* ~ 0.74  
 
 ## Usage
 The file main.ipynb contains three blocks created for: installing dependencies, using pre-trained models, and training your own models on this dataset.
@@ -26,11 +26,11 @@ Next, you will see a comparison between the regular YOLO and the pre-trained mod
 Данный репозиторий посвещен моему второму проекту, сделанному во время второго семестра для проектного практикума. На данной странице вы можете найти обученную модель YOLO для обнаружения машин в сложных ракурсах. Также проект содержит сам датасет с разметкой.  
 
 ## Метрики полученные в ходе дообучения
-**Модель на 400 изображений**
-precision(B) ~ 0.94
-recall(B)	~ 0.84
-mAP50(B) ~ 0.91
-mAP50-95(B) ~ 0.74
+**Модель на 400 изображений**  
+precision(B) ~ 0.94  
+recall(B)	~ 0.84  
+mAP50(B) ~ 0.91  
+mAP50-95(B) ~ 0.74  
 
 ## Использование
 В файле main.ipynb представлены 3 блока созданных для: установки зависимостей, использовании предобученых моделей, тренировки своих моделей на данном датасете.  
